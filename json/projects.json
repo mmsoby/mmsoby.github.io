@@ -1,0 +1,28 @@
+[
+  {
+    "file": "portfolio",
+    "name": "Portfolio Website",
+    "body": "I finally updated my portfolio website with a list of projects. Currently, it's a static website. The content for each project's page is stored in JSON, and the pages are generated using Python and Jinja.",
+    "links": [
+      {
+        "url": "https://github.com/mmsoby/mmsoby.github.io",
+        "text": "view source code on GitHub"
+      }
+    ],
+    "icon_names": [
+      "website",
+      "python"
+    ]
+  },
+  {
+    "file": "kymanyc",
+    "name": "KymaNYC",
+    "body": "Senior capstone site",
+    "links": [
+    ],
+    "icon_names": [
+      "website",
+      "python"
+    ]
+  }
+]
