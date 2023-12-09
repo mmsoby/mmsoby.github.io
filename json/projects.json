@@ -2,11 +2,15 @@
   {
     "file": "portfolio",
     "name": "Portfolio Website",
-    "body": "I finally updated my portfolio website with a list of projects. Currently, it's a static website. The content for each project's page is stored in JSON, and the pages are generated using Python and Jinja.",
+    "body": "This portfolio website contains a list of my projects, information about myself, and my resume. The content for each project's page is stored in JSON, and the pages are generated using Python and Jinja. This site is based on Musa's work.",
     "links": [
       {
         "url": "https://github.com/mmsoby/mmsoby.github.io",
         "text": "view source code on GitHub"
+      },
+      {
+        "url": "https://musah.net",
+        "text": "view Musa's site"
       }
     ],
     "icon_names": [
