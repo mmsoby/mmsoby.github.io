@@ -21,8 +21,23 @@
   {
     "file": "kymanyc",
     "name": "KymaNYC",
-    "body": "Senior capstone site",
+    "body": "In my Senior Design Capstone project at the University of Michigan-Dearborn, I was part of a five-member team that developed KymaNYC, a customizable e-commerce website. </p><p> We utilized a tech stack comprising NextJS, React, TypeScript, Firebase, and Stripe for payment processing. A significant achievement of this project was fulfilling the client's unique requirement to operate and maintain the website at zero cost. This was accomplished by strategically leveraging cost-effective platforms and open-source solutions. </p><p> The project, completed between September 2023 and May 2023, showcases our ability to meet complex client needs effectively. I would show a link to the application but unfortunately the client took the site down while preparing their business for launch.",
     "links": [
+    ],
+    "icon_names": [
+      "website",
+      "python"
+    ]
+  },
+  {
+    "file": "burrdle",
+    "name": "Burrdle",
+    "body": "In Burrdle I applied my skills in web development to create a NFL-themed Wordle game, but this time using FlutterFire. This web game, which showcases my proficiency in using Flutter for the frontend and Firebase for the backend, offers a unique twist on the popular Wordle game format, tailored for NFL enthusiasts.",
+    "links": [
+      {
+        "url": "https://burrdle.web.app",
+        "text": "play the game on desktop"
+      }
     ],
     "icon_names": [
       "website",
