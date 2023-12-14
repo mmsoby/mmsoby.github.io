@@ -43,5 +43,24 @@
       "website",
       "python"
     ]
+  },
+  {
+    "file": "youtube-channel",
+    "name": "YouTube Channel",
+    "body": "I created a YouTube channel to share what I have learned and showcase my projects. I have created videos on a variety of topics, including my projects, xcode customization, crypto trading bots, java/python installations, and environment configuration. <p></p> To my surprise my most popular video, with 21k views, is about properly installing Java and JavaFX on a M1 mac. The reason I made it in the first place was that at the time the existing documentation was terrible, and it seems many other people shared that frustration. <p></p> I am not necessarily trying to grow my channel as of now, I just enjoy documenting my progress and sharing what I learned. Teaching others has been a great way for me to cement my understanding in a subject. Another benefit I received from making these videos is learning how to script, record, and edit videos.",
+    "links": [
+      {
+        "url": "https://www.youtube.com/@mustafasoby/featured",
+        "text": "view my channel"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=M1v8V7Q90XU",
+        "text": "view my most popular video"
+      }
+    ],
+    "icon_names": [
+      "website",
+      "python"
+    ]
   }
 ]
