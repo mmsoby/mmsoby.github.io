@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=0.6">
-    <title>KymaNYC | Projects | Mustafa Soby </title>
+    <title>{{ name }} | Books Read | Mustafa Soby </title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400&display=swap" rel="stylesheet">
@@ -13,26 +13,37 @@
 <body>
 <div class="about">
     <div class="body_header">
-        <h1>KymaNYC</h1>
+        <h1>{{ name }}</h1>
+        <h3>{{ author }}</h3>
         <hr/>
     </div>
     <div class="about_body">
         <div class="project_icons">
-            
-            <img src="../icons/website.png" title="Website" alt="Website">
-            
-            <img src="../icons/python.png" title="Python" alt="Python">
-            
+            {% for icon in icons %}
+            <img src="{{ icon.path }}" title="{{ icon.title }}" alt="{{ icon.title }}">
+            {% endfor %}
         </div>
+        <book-headers>Start Date: {{ startDate }}</book-headers>
+        <br/>
+        <book-headers>End Date: {{ endDate }}</book-headers>
+        <br/>
+        <book-headers>Reason I picked it up: {{reason}}</book-headers>
         <p>
-            Senior capstone site
+            {{ body }}
         </p>
         <br/>
         <div class="links">
-            <p><a href="../projects.html">Return</a></p>
+            <p><a href="../books-read.html">Return</a></p>
         </div>
         <br/>
-        
+        {% if links | length > 0 %}
+        <p><b>Links:</b></p>
+        <div class="links_small">
+            {% for i in range(links | length) %}
+            <p><a href="{{ links[i].url }}" target="_blank">[{{i}}] {{ links[i].text }}</a></p>
+            {% endfor %}
+        </div>
+        {% endif %}
     </div>
     <br/>
     <br/>

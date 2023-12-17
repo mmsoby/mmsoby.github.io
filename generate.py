@@ -37,5 +37,40 @@ def generateProjectPages():
             output.write(rendered)
             output.close()
 
+
+def generateBooksReadPages():
+    # load the template
+    with open('templates/book-read.html') as file:
+        template = Template(file.read())
+
+    output_path = 'books-read/'
+
+    # create the output path if it doesn't exist
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
+
+    # load contexts
+    contexts = json.load(open('json/books-read.json'))
+    icon_ctx = json.load(open('json/icons.json'))
+
+    # generate the pages
+    for context in contexts:
+        # add details needed to render icons to context
+        if 'icon_names' in context:
+            context['icons'] = []
+
+            for icon_name in context['icon_names']:
+                context['icons'].append({
+                    'path': "../" + icon_ctx[icon_name]['path'],
+                    'title': icon_ctx[icon_name]['title']
+                })
+
+        # render context
+        with open(output_path + context['file'] + '.html', 'w') as output:
+            rendered = template.render(context)
+            output.write(rendered)
+            output.close()
+
 if __name__ == '__main__':
+    generateBooksReadPages()
     generateProjectPages()
