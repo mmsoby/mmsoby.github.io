@@ -294,16 +294,17 @@ a {
     text-align: center;
 }
 
-/* Global style for the body */
 body {
-    background-color: black; /* Sets the background to black */
-    color: white; /* Sets the default text color to white */
+    background-color: black;
+    color: white;
 }
 
-
-/* Similarly, adjust other elements like hr to fit the dark theme */
 hr, .thin hr {
-    background: white; /* Change hr color to white */
+    background: white;
 }
 
-/* Ensure any other elements that need specific styling are updated accordingly */
+/**/
+book-headers {
+    font-family: 'Source Serif Pro', serif;
+    font-style: italic;
+}
