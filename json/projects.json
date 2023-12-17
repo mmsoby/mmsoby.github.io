@@ -62,5 +62,18 @@
       "website",
       "python"
     ]
+  },
+  {
+    "file": "adulting",
+    "name": "Adulting",
+    "body": "When I moved out of my parents' home for the first time, keeping track of all the things I purchased or had to purchase was a huge hassle. I looked online for a list of the products I would need to buy to get my apartment set up properly, but couldn't find anything that suited my needs. I also needed to make sure everything I bought would be a good investment and be a long lasting product. After filling out the spreadsheet I wanted to share it with others. I also decided to make it into an open-source repository so that people can contribute. For many of the products I give a short review and why I chose it. I also give a detailed list of my work from home setup.",
+    "links": [
+      {
+        "url": "https://github.com/mmsoby/adulting",
+        "text": "view the repo"
+      }
+    ],
+    "icon_names": [
+    ]
   }
 ]
