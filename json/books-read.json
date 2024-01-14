@@ -1,13 +1,302 @@
 [
   {
+    "file": "the-total-money-makeover",
+    "name": "The Total Money Makeover",
+    "author": "Dave Ramsey",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-pattern-on-the-stone",
+    "name": "The Pattern on the Stone",
+    "author": "W. Daniel Hillis",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "predictably-irrational",
+    "name": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "and-the-mountains-echoed",
+    "name": "And the Mountains Echoed",
+    "author": "Khaled Hosseini",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "g\u00f6del,-escher,-bach:-an-eternal-golden-braid",
+    "name": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+    "author": "Douglas Hofstadter",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "twilight-of-the-idols-and-the-antichrist",
+    "name": "Twilight of the Idols and The Antichrist",
+    "author": "Friedrich Nietzsche",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "a-thousand-splendid-suns",
+    "name": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "animal-farm",
+    "name": "Animal Farm",
+    "author": "George Orwell",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-pearl",
+    "name": "The Pearl",
+    "author": "John Steinbeck",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-glass-castle",
+    "name": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "fire-and-fury",
+    "name": "Fire and Fury",
+    "author": "Michael Wolff",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "life-3.0",
+    "name": "Life 3.0",
+    "author": "Max Tegmark",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-kite-runner",
+    "name": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "smarter-faster-better",
+    "name": "Smarter Faster Better",
+    "author": "Charles Duhigg",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-awakening",
+    "name": "The Awakening",
+    "author": "Kate Chopin",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "then-i-was-guided",
+    "name": "Then I Was Guided",
+    "author": "Muhammad al-Tijani al-Samawi",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "there-is-no-god-and-mary-is-his-mother",
+    "name": "There Is No God and Mary Is His Mother",
+    "author": "Thomas Cathcart",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "focusing",
+    "name": "Focusing",
+    "author": "Eugene T. Gendlin",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-brothers-karamazov",
+    "name": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "good-to-great",
+    "name": "Good to Great",
+    "author": "Jim Collins",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-starbucks-experience",
+    "name": "The Starbucks Experience",
+    "author": "Joseph Michelli",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "harry-potter-(in-arabic)",
+    "name": "Harry Potter (in Arabic)",
+    "author": "J.K. Rowling",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "one-flew-over-the-cuckoo's-nest",
+    "name": "One Flew Over the Cuckoo's Nest",
+    "author": "Ken Kesey",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-hobbit",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-lord-of-the-rings:-the-fellowship-of-the-ring",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-lord-of-the-rings:-the-two-towers",
+    "name": "The Lord of the Rings: The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-lord-of-the-rings:-the-return-of-the-king",
+    "name": "The Lord of the Rings: The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-power-of-habit",
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
+    "file": "the-body-keeps-the-score",
+    "name": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
+  },
+  {
     "file": "grapes-of-wrath",
     "name": "Grapes of Wrath",
     "author": "John Steinbeck",
-    "startDate": "2014-01-01",
-    "endDate": "2014-01-31",
-    "reason": "I've always wanted to read this book.",
-    "body": "This book was great...",
-    "links": [
-    ]
+    "startDate": "null",
+    "endDate": "null",
+    "reason": "null",
+    "body": "null",
+    "links": []
   }
 ]
